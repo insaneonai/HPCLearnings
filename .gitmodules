@@ -1,3 +1,6 @@
 [submodule "CS149-Asst1"]
 	path = CS149-Asst1
 	url = https://github.com/insaneonai/CS149-Asst1.git
+[submodule "Mamtul-Optimization-Worklog"]
+	path = Mamtul-Optimization-Worklog
+	url = https://github.com/insaneonai/Mamtul-Optimization-Worklog/
